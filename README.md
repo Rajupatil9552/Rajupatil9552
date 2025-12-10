@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Banner: the tool will transform this local path to a URL when you upload. -->
-  <img src="GitHub.png" alt="GitHub Banner" width="100%" />
+  <img src="Github.png" alt="GitHub Banner" width="100%" />
 </p>
 <p align="center">
 
